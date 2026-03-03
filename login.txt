@@ -1,3 +1,4 @@
+valami szöveg van itt
 valami szöveg módosítás után
 az első szöveg után
 igen
